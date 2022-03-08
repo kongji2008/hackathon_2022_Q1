@@ -1,0 +1,2 @@
+backend:
+    url : "http://pong:8081/pong"
